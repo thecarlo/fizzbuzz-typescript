@@ -22,7 +22,6 @@ coverage/
 test-report.xml
 *.zip
 *.tgz
-package*
 
 # JetBrains IDEs
 .idea
